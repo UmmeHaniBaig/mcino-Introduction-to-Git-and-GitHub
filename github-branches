@@ -1,0 +1,10 @@
+C:\Users\Yousuf Traders\Desktop\mcino-Introduction-to-Git-and-GitHub>git branch -vv
+  bug-fix-typo 152a810 Additional typo fix
+* main         f52d88d [origin/main] Add bug-fix-revert showing PR verification from fork
+
+C:\Users\Yousuf Traders\Desktop\mcino-Introduction-to-Git-and-GitHub>git branch -a
+  bug-fix-typo
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/bug-fix-typo
+  remotes/origin/main
