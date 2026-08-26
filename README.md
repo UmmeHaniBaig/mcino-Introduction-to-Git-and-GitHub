@@ -1,6 +1,6 @@
 # Introductions to Git and GitHub
-
-## Simple Interest Calculator
+This repository contains an introduction to Git and GitHub.
+## Simple Calculator
 
 A calculator that calculated simple  given principal, annual rate of interest and time period in years.
 
