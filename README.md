@@ -1,5 +1,4 @@
 # Introduction to Git and GitHub
-
 ## Simple Calculator
 
 A calculator that calculated simple given principal, annual rate of interest and time period in years.
